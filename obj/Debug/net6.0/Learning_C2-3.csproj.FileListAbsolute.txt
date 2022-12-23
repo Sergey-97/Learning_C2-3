@@ -1,0 +1,15 @@
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\Learning_C2-3.csproj.AssemblyReference.cache
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\Learning_C2-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\Learning_C2-3.AssemblyInfoInputs.cache
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\Learning_C2-3.AssemblyInfo.cs
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\Learning_C2-3.csproj.CoreCompileInputs.cache
+C:\Learning_C2-3\Learning_C2-3\bin\Debug\net6.0\Learning_C2-3.exe
+C:\Learning_C2-3\Learning_C2-3\bin\Debug\net6.0\Learning_C2-3.deps.json
+C:\Learning_C2-3\Learning_C2-3\bin\Debug\net6.0\Learning_C2-3.runtimeconfig.json
+C:\Learning_C2-3\Learning_C2-3\bin\Debug\net6.0\Learning_C2-3.dll
+C:\Learning_C2-3\Learning_C2-3\bin\Debug\net6.0\Learning_C2-3.pdb
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\Learning_C2-3.dll
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\refint\Learning_C2-3.dll
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\Learning_C2-3.pdb
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\Learning_C2-3.genruntimeconfig.cache
+C:\Learning_C2-3\Learning_C2-3\obj\Debug\net6.0\ref\Learning_C2-3.dll

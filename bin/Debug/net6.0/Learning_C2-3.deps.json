@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Learning_C2-3/1.0.0": {
+        "runtime": {
+          "Learning_C2-3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Learning_C2-3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
